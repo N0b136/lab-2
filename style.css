@@ -1,0 +1,25 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    font-weight: bold;
+    cursor: pointer;
+    color: blueviolet;
+}
+
+span {
+    color: darkred;
+    font-weight: bold;
+    
+}
