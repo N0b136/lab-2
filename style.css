@@ -56,3 +56,47 @@ span {
     position: relative;
     top: 3.5em;
 }
+
+h1 {
+    color: #a4a4a4
+}
+
+.original {
+    color: aqua;
+}
+
+.additional {
+    color: blue;
+}
+
+#show1{
+    color: red;
+}
+
+#show2{
+    color: green;
+}
+
+#show3{
+    color: orange;
+}
+
+#show4{
+    color: yellow;
+}
+
+#show5{
+    color: brown;
+}
+
+.star {
+    color: darkturquoise;
+}
+
+#wars {
+    color: green;
+}
+
+.list {
+    border: 2px solid black;
+}
